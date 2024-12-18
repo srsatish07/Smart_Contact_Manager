@@ -56,7 +56,7 @@ public class configrationfile {
                         		defaultSuccessUrl("/user/index",true).permitAll());
 			} 
 			catch (Exception e) {
-				// TODO Auto-generated catch block
+				
 				e.printStackTrace();
 			}
 		}
